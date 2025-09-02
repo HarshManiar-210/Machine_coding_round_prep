@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "label": "Fruits",
+    "children": [
+      { "id": 2, "label": "Apple" },
+      { "id": 3, "label": "Banana" },
+      {
+        "id": 4,
+        "label": "Citrus",
+        "children": [
+          { "id": 5, "label": "Orange" },
+          { "id": 6, "label": "Lemon" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "label": "Vegetables",
+    "children": [
+      { "id": 8, "label": "Carrot" },
+      { "id": 9, "label": "Broccoli" }
+    ]
+  },
+  {
+    "id": 10,
+    "label": "Dairy",
+    "children": [
+      { "id": 11, "label": "Milk" },
+      { "id": 12, "label": "Cheese" },
+      {
+        "id": 13,
+        "label": "Yogurt",
+        "children": [
+          { "id": 14, "label": "Greek Yogurt" },
+          { "id": 15, "label": "Flavored Yogurt" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "label": "Grains",
+    "children": [
+      { "id": 17, "label": "Rice" },
+      { "id": 18, "label": "Wheat" },
+      {
+        "id": 19,
+        "label": "Bread",
+        "children": [
+          { "id": 20, "label": "White Bread" },
+          { "id": 21, "label": "Brown Bread" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "label": "Beverages",
+    "children": [
+      { "id": 23, "label": "Water" },
+      {
+        "id": 24,
+        "label": "Tea",
+        "children": [
+          { "id": 25, "label": "Green Tea" },
+          { "id": 26, "label": "Black Tea" }
+        ]
+      },
+      {
+        "id": 27,
+        "label": "Coffee",
+        "children": [
+          { "id": 28, "label": "Espresso" },
+          { "id": 29, "label": "Latte" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "label": "Proteins",
+    "children": [
+      { "id": 31, "label": "Chicken" },
+      { "id": 32, "label": "Beef" },
+      {
+        "id": 33,
+        "label": "Seafood",
+        "children": [
+          { "id": 34, "label": "Fish" },
+          { "id": 35, "label": "Shrimp" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.node__list {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.node__parent {
+  padding-left: 20px;
+}
+.node__parent--title {
+  font-size: small;
+  padding: 2px;
+}
