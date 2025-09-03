@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Accordion__list {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 35px;
+}
+
+.Accordion__container {
+  padding: 20px;
+  margin: 5px;
+  border: 1px solid blue;
+  border-radius: 25px;
+}
+.Accordion__container--title {
+  padding: 10px 0px;
+  font-weight: 900;
+  text-decoration: underline;
+}
+.Accordion__container--content {
+  font-weight: 400;
+  padding-left: 15px;
+}
+.Accordion__titleContainer {
+  display: flex;
+  cursor: pointer;
+  justify-content: space-between;
+}
+
+.active {
+  background-color: antiquewhite;
+}
