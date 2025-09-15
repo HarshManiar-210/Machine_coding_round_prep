@@ -7,5 +7,5 @@ As you scroll down, more items are automatically loaded without clicking any but
 
 ## 🎥 Demo
 Watch the demo here:  
-[![Infinite Scroll Demo]](https://youtube.com/shorts/QD6ZiFAB5gI)
+[Infinite Scroll Demo](https://youtube.com/shorts/QD6ZiFAB5gI)
 
