@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.chip__container {
+  padding: 3px;
+  margin: 3px;
+}
+.chip__container--title {
+  padding: 5px;
+  margin: 5px;
+}
